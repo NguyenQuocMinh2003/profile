@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: inline;
+    background: yellowgreen;
+    padding: 40%;
+    color: blue;
+
+}
+.profile{
+    display: flex;
+    margin-top: 20px;
+    color: red;
+    background: blue;
+}
